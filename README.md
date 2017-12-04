@@ -1,6 +1,6 @@
 # slepping well
 
-(/sleeping-well/sleep imp.PNG)
+(/sleep imp.PNG)
 
 (/sleeping-well/sleep imp 2.PNG)
 
